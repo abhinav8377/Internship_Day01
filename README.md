@@ -9,6 +9,6 @@
 
 # Scope
 **Network: 192.168.197.0/24 <br>**
-**Target (example): 192.168.197.131 (metasploitable2) <br>**
+**Target: 192.168.197.131 (metasploitable2) <br>**
 **Tools: Nmap <br>**
 **Environment: Kali Linux (attacker) + target VMs running in VMware internal network <br>**
