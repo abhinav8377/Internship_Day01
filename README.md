@@ -1,4 +1,4 @@
-# Network Reconnaissance — Task 1
+# Network Reconnaissance 
 **Task: Scan Local Lab Network for Open Ports**
 **Author: Abhinav Tiwari · Date: 2025-09-22**
 
