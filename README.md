@@ -8,7 +8,7 @@
 **Discover open ports and services on lab VMs (e.g., Metasploitable2) to assess exposure and produce actionable remediation recommendations.**
 
 # Scope
-**Network: 192.168.197.0/24** **\n**
+**Network: 192.168.197.0/24 <br>**
 **Target (example): 192.168.197.131 (metasploitable2)**
 **Tools: Nmap**
 **Environment: Kali Linux (attacker) + target VMs running in VMware internal network**
